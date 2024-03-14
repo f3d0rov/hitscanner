@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# CMake
+*CMakeFiles
+
+# Build directory
+server/build
+
+# Editor files
+.vscode
+.vs
